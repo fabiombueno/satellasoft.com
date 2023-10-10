@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\HelloWorld"
   ],
-  "SelectedNode": "\\C:\\Users\\fabio.bueno\\Source\\Repos\\satellasoft.com",
+  "SelectedNode": "\\HelloWorld\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
